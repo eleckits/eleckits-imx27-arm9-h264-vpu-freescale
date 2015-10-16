@@ -1,0 +1,1 @@
+eleckits-imx27-arm9-h264-vpu-freescale
